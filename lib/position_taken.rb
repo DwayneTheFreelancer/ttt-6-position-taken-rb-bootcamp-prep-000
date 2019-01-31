@@ -2,6 +2,6 @@
 
 def position_taken 
   if(board == " ")
-    
+    return true 
   end
 end
